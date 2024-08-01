@@ -1,0 +1,12 @@
+.idea/.gitignore
+.idea/LangchainChromaPOC.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+chroma_db/chroma.sqlite3
+chroma_db/b05ca6a6-d68e-4e17-a239-bd857f3b9c9d/data_level0.bin
+chroma_db/b05ca6a6-d68e-4e17-a239-bd857f3b9c9d/header.bin
+chroma_db/b05ca6a6-d68e-4e17-a239-bd857f3b9c9d/length.bin
+chroma_db/b05ca6a6-d68e-4e17-a239-bd857f3b9c9d/link_lists.bin

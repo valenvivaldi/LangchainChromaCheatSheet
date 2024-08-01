@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "langchainchromapoc"
+version = "0.1.0"
+description = ""
+authors = ["Valentin Vivaldi <valentin.vivaldi@smfconsulting.es>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain-chroma = "^0.1.2"
+langchain-community = "^0.2.10"
+sentence-transformers = "^3.0.1"
+langchain-huggingface = "^0.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
