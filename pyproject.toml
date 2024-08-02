@@ -11,6 +11,7 @@ langchain-chroma = "^0.1.2"
 langchain-community = "^0.2.10"
 sentence-transformers = "^3.0.1"
 langchain-huggingface = "^0.0.3"
+langchain-openai = "^0.1.20"
 
 
 [build-system]
